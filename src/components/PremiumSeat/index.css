@@ -1,0 +1,22 @@
+.btn-seat {
+  margin: 5px;
+}
+li {
+  list-style: none;
+}
+
+.btn-green {
+  background-color: #2dc492;
+  color: white;
+  margin: 5px;
+  border: 1px solid #2dc492;
+  outline: none;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #2dc492;
+  color: white;
+  border: 1px solid #2dc492;
+  outline: none;
+  cursor: pointer;
+}

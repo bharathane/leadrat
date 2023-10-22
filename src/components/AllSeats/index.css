@@ -1,0 +1,78 @@
+.home-con {
+  padding: 15px;
+  box-sizing: border-box;
+}
+.input-container {
+  display: flex;
+  padding: 15px;
+  gap: 52px;
+}
+
+.main-con {
+  width: 80vw;
+  height: 80vh;
+  border: 1px solid;
+}
+
+.seats-con {
+  padding: 15px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  display: flex;
+  height: 60vh;
+}
+
+li {
+  width: 10%;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  height: 20vh;
+}
+.alpha-ul {
+  display: flex;
+  flex-direction: column;
+  width: 5%;
+
+  height: 60vh;
+  gap: 14.5px;
+  font-size: 14px;
+  margin-top: 23px;
+}
+hr {
+  width: 80%;
+}
+.proceed-btn {
+  background-color: rgb(65, 224, 65);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  margin-left: 700px;
+}
+h3 {
+  text-align: center;
+  font-weight: 200px;
+  font-size: 16px;
+  color: rgb(79, 236, 79);
+}
+
+.information-li {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+.information-ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 18vw;
+  height: 80vh;
+  gap: 15px;
+}
+.hole-con {
+  display: flex;
+}
